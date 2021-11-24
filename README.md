@@ -15,6 +15,7 @@ I like to tinker with my computer and I enjoy learning new stuff.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">\
 <img src="https://img.shields.io/badge/NeoVim-57A143?&style=for-the-badge&logo=neovim&logoColor=white">
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">\
+[<img src="https://img.shields.io/badge/Emacs-7F5AB6?&style=for-the-badge&logo=gnu-emacs&logoColor=white">](https://github.com/m3dry/doom-emacs)\
 <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 ## Learning
@@ -25,4 +26,4 @@ I like to tinker with my computer and I enjoy learning new stuff.
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">\
 <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3dry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3dry&text_color=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

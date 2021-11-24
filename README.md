@@ -1,9 +1,9 @@
 # Hi there 👋, my name is M3dry
- distro: [artix](https://artixlinux.org)
- wm: [dwm](htps://github.com/m3dry/dwm)
- terminal: [st](https://github.com/m3dry/st)
- editor: [nvim](https://github.com/m3dry/dotfiles/tree/master/.config/nvim)
- discord: M3dry#2528
+distro: [artix](https://artixlinux.org)\
+wm: [dwm](htps://github.com/m3dry/dwm)\
+terminal: [st](https://github.com/m3dry/st)\
+editor: [nvim](https://github.com/m3dry/dotfiles/tree/master/.config/nvim)\
+discord: M3dry#2528
 
 ## Skills
  * Linux

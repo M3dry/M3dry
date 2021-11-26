@@ -26,4 +26,4 @@ I like to tinker with my computer and I enjoy learning new stuff.
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">\
 <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3dry&text_color=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3dry&text_color=eeffff&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

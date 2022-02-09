@@ -1,5 +1,4 @@
-# Hi there 👋, my name is M3dry
-I like to tinker with my computer and I enjoy learning new stuff.
+Yo
 ## Things I use
 [<img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white">](https://artixlinux.org)\
 [<img src="https://img.shields.io/badge/NeoVim-57A143?&style=for-the-badge&logo=neovim&logoColor=white">](https://github.com/m3dry/dotfiles/tree/master/.config/nvim)

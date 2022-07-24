@@ -10,7 +10,7 @@
     development and math.
 </p>
 <h3 align="center">Specs</h3>
-<div id="specs" align="center">
+<div align="center">
     <img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"
         alt="GPU: nvidia rtx 2060" />
     <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white\"
@@ -19,7 +19,7 @@
         alt="Linux distro: Arch" />
 </div>
 <h3 align="center">IDE(s)</h3>
-<div id="ides" align="center">
+<div align="center">
     <a href="https://neovim.io/"><img
             src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
             alt="Neovim" /></a>
@@ -28,39 +28,15 @@
             alt="Doom-Emacs" /></a>
 </div>
 
-<h1 align="center">Learning</h1>
-<div id="learning" align="center">
-    <a href="https://www.rust-lang.org/"><img
-            src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
-            alt="Rust" /></a>
-</div>
-
-<h1 align="center">Want to learn</h1>
-<div id="wannaLearn" align="center">
-    <a href="https://www.docker.com/"><img
-            src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
-            alt="Docker" /></a>
-    <a href="https://reactjs.org/"><img
-            src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-            alt="React" /></a>
-</div>
-
-<h1 align="center">My knowledge</h1>
-<h4 align="center">Mr. segfault</h4>
-<div id="Languages" align="center">
+<h1 align="center">Technologies</h1>
+<div align="center">
     <a href="https://gcc.gnu.org/"><img
             src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
-</div>
-<h4 align="center">Scripting</h4>
-<div id="Languages" align="center">
     <a href="https://www.lua.org/"><img
             src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" /></a>
     <a href="https://www.gnu.org/software/bash/"><img
             src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
             alt="Bash" /></a>
-</div>
-<h4 align="center">Front end</h4>
-<div id="Languages" align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css" />
     <a href="https://www.javascript.com/"><img
@@ -72,14 +48,27 @@
     <a href="https://www.typescriptlang.org/"><img
             src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
             alt="Typescript" /></a>
-</div>
-<h4 align="center">Backend</h4>
-<div id="Languages" align="center">
     <a href="https://go.dev/"><img
             src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
-</div>
-<h4 align="center">Tools</h4>
-<div id="Tools" align="center">
+    <a href="https://rust-lang.org/"><img
+            src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Go" /></a>
     <a href="https://git-scm.com/"><img
             src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+</div>
+
+<h2 align="center">Learning</h2>
+<div align="center">
+    <a href="https://www.ansible.com/"><img
+            src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"
+            alt="Rust" /></a>
+</div>
+
+<h2 align="center">Want to learn</h2>
+<div align="center">
+    <a href="https://www.docker.com/"><img
+            src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+            alt="Docker" /></a>
+    <a href="https://reactjs.org/"><img
+            src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+            alt="React" /></a>
 </div>

@@ -58,9 +58,9 @@
 
 <h2 align="center">Learning</h2>
 <div align="center">
-    <a href="https://www.ansible.com/"><img
-            src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"
-            alt="Rust" /></a>
+    <a href="https://www.clojure.org/"><img
+            src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure"
+            alt="Clojure" /></a>
 </div>
 
 <h2 align="center">Want to learn</h2>

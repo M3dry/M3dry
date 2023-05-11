@@ -6,8 +6,7 @@
 
 <h1 align="center">About me</h1>
 <p align="center">
-    I'm a monkey from eastern/central europe that's interested in Linux, software
-    development and math.
+    I'm a monkey from europe that's interested in Linux, programming and math.
 </p>
 <h3 align="center">Specs</h3>
 <div align="center">

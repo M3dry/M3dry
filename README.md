@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://c.tenor.com/fMWsP6jil1MAAAAS/langostino19gif-arab-monkey.gif" alt="Monkey gif" width="180"
     height="210" /><br />
-    I'm a monkey from europe that's interested in Programming, linux and math.
+    I'm a interested in programming, Linux and math.
 </p>
 <h2 align="center">Specs</h2>
 <div align="center">

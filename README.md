@@ -67,4 +67,5 @@
     <li>Calculus Volume 1 by Tom M. Apostol</li>
     <li><a href="https://www.math.brown.edu/streil/papers/LADW/LADW.html">Linear Algebra Done Wrong by Sergei Treil</a></li>
     <li>Algebra by Michael Artin</li>
+    <li>Discrete Mathematics and Its Applications 8th edition by Rosen Kenneth</li>
 </div>
